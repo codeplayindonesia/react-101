@@ -1,6 +1,6 @@
 # React Basic
 
-## Table of Contents
+## React Intro
 
 - What is React
 - Initialize React project with Vite
@@ -8,3 +8,9 @@
 - Conditional Rendering
 - Rendering Lists
 - State
+
+## React Component
+
+- What is component
+- Props data
+- Props function
